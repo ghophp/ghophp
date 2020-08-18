@@ -1,4 +1,4 @@
-![Obama Quote](./personal_folio.png)
+![Obama Quote](https://github.com/ghophp/ghophp/raw/master/personal_folio.png)
 
 💬 Hello there. I am Gui. I am on my second decade as a software engineer. The last decade was incredibly exciting. I scratched the surface of this immense and always evolving area that is software development, mastering various languages and the different approaches to run your code, towards the last half of the first decade I went deeper into the cloud and developer operations.
 
